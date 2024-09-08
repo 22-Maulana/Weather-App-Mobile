@@ -1,6 +1,12 @@
 # weather_app
 
-A new Flutter project.
+The first project in learning mobile dev using Flutter is to create a simple weather viewing application using open source api. 
+
+#Screenshoot App
+![Alt text](assets/images/ss1)
+![Alt text](assets/images/ss2)
+![Alt text](assets/images/ss3)
+
 
 ## Getting Started
 
