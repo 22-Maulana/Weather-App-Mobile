@@ -2,10 +2,10 @@
 
 The first project in learning mobile dev using Flutter is to create a simple weather viewing application using open source api. 
 
-#Screenshoot App
-![Alt text](assets/images/ss1)
-![Alt text](assets/images/ss2)
-![Alt text](assets/images/ss3)
+# screenshoot App : 
+
+![alt text](https://github.com/22-Maulana/Weather-App-Mobile/blob/main/assets/images/ss1.png?raw=true) ![alt text](https://github.com/22-Maulana/Weather-App-Mobile/blob/main/assets/images/ss2.png?raw=true) 
+![alt text](https://github.com/22-Maulana/Weather-App-Mobile/blob/main/assets/images/ss3.png?raw=true)
 
 
 ## Getting Started
